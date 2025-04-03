@@ -77,6 +77,6 @@ This project is licensed under the MIT License.
 
 ---
 🎵 *Let the game begin!* 🎵
-![Game Screenshot](images/antrakshri.JPG)
+![Game Screenshot](antrakshri.JPG)
 
 
